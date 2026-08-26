@@ -11,14 +11,7 @@ Ingredientes: Louis
 
 O que precisa: Ezequiel
 ## Utensílios
-Máquina de espresso;
-Filtro;
-Filtro/cesta para café;
-Tamper;
-Balança de precisão — (opcional, mas recomendada);
-Moedor de café;
-Doseador — (opcional);
-Pincel ou escova para limpeza do grupo;
+Máquina de espresso, Porta-filtro, Filtro/cesta para café, Tamper, Balança de precisão (opcional, mas recomendada), Moedor de café, Doseador (opcional), Pincel ou escova para limpeza.
 
 O que fazer - step by step: Bárbara
 ## Como fazer
