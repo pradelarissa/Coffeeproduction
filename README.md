@@ -10,6 +10,15 @@ Ingredientes: Louis
 2 copos de água
 
 O que precisa: Ezequiel
+## Utensílios
+Máquina de espresso;
+Filtro;
+Filtro/cesta para café;
+Tamper;
+Balança de precisão — (opcional, mas recomendada);
+Moedor de café;
+Doseador — (opcional);
+Pincel ou escova para limpeza do grupo;
 
 O que fazer - step by step: Bárbara
 ## Como fazer
