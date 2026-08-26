@@ -1,17 +1,20 @@
 # Coffeeproduction
 Java class 2: Coffee recipe step by step
+## Produção do Mocaccino
 
 Ingredientes: Louis
+## Ingredientes
 
 2 colheres de leite em pó
 2 colheres de chocolate em pó
-2 quadrados de chocolate meio amargo
+3 quadrados de chocolate meio amargo
 1 colher de café torrado e moido
 2 copos de água
+25g chocolate amargo derretido
 
 O que precisa: Ezequiel
 ## Utensílios
-Máquina de espresso, Porta-filtro, Filtro/cesta para café, Tamper, Balança de precisão (opcional, mas recomendada), Moedor de café, Doseador (opcional), Pincel ou escova para limpeza.
+Máquina de espresso, Porta-filtro, Filtro/cesta para café, Tamper, Balança de precisão (opcional, mas recomendada), Moedor de café, Dosador (opcional), Pincel ou escova para limpeza, colher de café e xícara de vidro.
 
 O que fazer - step by step: Bárbara
 ## Como fazer
@@ -21,6 +24,12 @@ O que fazer - step by step: Bárbara
 5. Acrescente o café ainda quente aos poucos, mexendo bem para misturar e dissolver o leite em pó e o chocolate.
 6. Em seguida, coloque os 2 quadrados de chocolate meio amargo na mistura ainda quente.
 7. Mexa bem até o chocolate derreter completamente e todos os ingredientes ficarem bem misturados.
-8. Por fim, coloque o mocaccino em uma xícara e sirva ainda quente.
 
 Bartender: Larissa
+## Composição no copo
+1. Coloque, com o auxílio de uma colher de café, calda de chocolate no fundo da xícara de vidro, espalhando delicadamente pelos cantos do vidro.
+2. Adicione toda a mistura do recipiente na xícara.
+3. Finalize quebrando 1 quadrado de chocolate em pequenos pedaços com as mãos e colocando delicadamente na superfície do mocaccino.
+
+## Mocaccino finalizado!
+
