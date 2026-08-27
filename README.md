@@ -15,12 +15,11 @@ Java class 2: Coffee recipe step by step
 Cafeteira elétrica, Porta-filtro, Filtro para café,Dosador (opcional), Colher de café, 2 Copos medidores e Xícara de vidro.
 
 ## Como fazer
-1. Primeiro, aqueça os 2 copos de água até ficar bem quente, mas sem deixar ferver por muito tempo.
-2. Com a água quente, prepare o café. Coloque o café torrado e moído no filtro e passe a água quente aos poucos sobre o pó, deixando o café coar em um recipiente.
-4. Depois que o café estiver pronto, coloque o leite em pó e o chocolate em pó em um recipiente.
-5. Acrescente o café ainda quente aos poucos, mexendo bem para misturar e dissolver o leite em pó e o chocolate.
-6. Em seguida, coloque os 2 quadrados de chocolate meio amargo na mistura ainda quente.
-7. Mexa bem até o chocolate derreter completamente e todos os ingredientes ficarem bem misturados.
+1. Coloque a agua na cafeteira.
+2. Misture o café, o leite em pó e o chocolate em pó.
+3. Coloque na cafeteira (no filtro) os 2 pedaços de chocolate e encima os outros ingredientes.
+4. Ligue a cafeteira.
+5 .Quando a cafeteira tiver pela metade do processo desligue e mexa para desempleotar o leite em pó, depois ligue e deixe terminar.
 
 ## Composição no copo
 1. Coloque, com o auxílio de uma colher de café, calda de chocolate no fundo da xícara de vidro, espalhando delicadamente pelos cantos do vidro.
