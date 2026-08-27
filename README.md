@@ -12,7 +12,7 @@ Java class 2: Coffee recipe step by step
 25g chocolate amargo derretido
 
 ## Utensílios
-Máquina de espresso, Porta-filtro, Filtro/cesta para café, Tamper, Balança de precisão (opcional, mas recomendada), Moedor de café, Dosador (opcional), Pincel ou escova para limpeza, colher de café e xícara de vidro.
+Cafeteira elétrica, Porta-filtro, Filtro para café,Dosador (opcional), Colher de café, 2 Copos medidores e Xícara de vidro.
 
 ## Como fazer
 1. Primeiro, aqueça os 2 copos de água até ficar bem quente, mas sem deixar ferver por muito tempo.
